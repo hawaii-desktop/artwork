@@ -6,3 +6,4 @@ Files are:
  * logo_maui.svgz: original file converted to SVG
  * m.svg: just the "m" for the web site, based on the original logo.
  * m.png: m.svg raster copy.
+ * favicon.ico: m.png converted to a favicon for the Web site.
